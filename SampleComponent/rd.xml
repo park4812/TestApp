@@ -1,0 +1,6 @@
+<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
+	<Application>
+		<!-- 예시: 모든 어셈블리에서 리플렉션 허용 -->
+		<Assembly Name="*" Dynamic="Required All" />
+	</Application>
+</Directives>
